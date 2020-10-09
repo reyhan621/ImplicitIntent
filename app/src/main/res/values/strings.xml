@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppCompactActivity</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="edittext_loc">Yogyakarta</string>
+    <string name="edittext_share">edittext share</string>
+    <string name="button_uri">Open Website</string>
+    <string name="button_loc">Open Location</string>
+    <string name="button_share">Share Text</string>
+</resources>
